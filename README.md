@@ -42,7 +42,7 @@ The ISTAT server is slow and limits the number of requests. The raw file is alre
 1. Download of the accidents from the ISTAT API and scraping of population and area from SITUAS (Selenium).
 2. Cleaning: the sigla "NA" (Napoli) is read as a missing value by pandas, so it is read as text. ISTAT does not list municipalities with zero accidents in 2024, so the 1,557 missing ones were added with zero.
 3. Join on the municipality code and creation of the rates per 1,000 inhabitants and per km².
-4. Exploratory analysis, K-means clustering, regression, t-test and ANOVA.
+4. Exploratory analysis, K-means clustering, regression and ANOVA.
 5. Power BI dashboard.
 
 ## Limits of the data
