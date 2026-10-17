@@ -13,7 +13,7 @@ Analysis of road accidents in Italian municipalities (ISTAT and SITUAS data, 200
 - `deck.pdf`: 5-slide presentation
 - `Data/`: raw and processed data
 
-# Start with 01, then 02, 03, 04, 05
+Start with 01, then 02, 03, 04, 05
 ```
 
 ## Note on the download
