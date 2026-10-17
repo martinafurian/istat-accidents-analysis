@@ -50,7 +50,7 @@ The ISTAT server is slow and limits the number of requests. The raw file is alre
 - Population from SITUAS is at 31/12/2024 and is used for all years, so rates for earlier years are approximate.
 - 682 municipality codes in the accidents table (1.85% of accidents) have no match in SITUAS 2024 because those municipalities were merged or abolished. They are kept in the dataset but excluded from the rates.
 - The accident table only includes accidents with personal injuries, not accidents with property damage only.
-- In 2024 ISTAT lists only municipalities with at least one accident. The 1,557 missing municipalities were added with zero accidents, deaths and injured. The 2024 totals (173,364 accidents, 3,030 deaths, 233,853 injured) match the official ISTAT–ACI figures.
+- In 2024 ISTAT lists only municipalities with at least one accident. The 1,557 missing municipalities were added with zero accidents, deaths and injured. The 2024 totals (173,364 accidents, 3,030 deaths, 233,853 injured).
 - Rates do not account for vehicle ownership or traffic volumes, which are not available at municipality level.
 - No forecast is included: only one year of population is available for each municipality.
 
